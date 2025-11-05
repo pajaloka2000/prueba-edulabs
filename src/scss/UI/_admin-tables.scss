@@ -1,0 +1,13 @@
+.admin-table {
+    .admin-name {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        color: #495057;
+        
+        i {
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+    }
+}
